@@ -15,7 +15,7 @@ int main(void)
    int i;
    char *s[] = 
    {
-      "Git tutorials jerry updates modified by tom",
+      "Git tutorials jerry updates modified by tom, accepted by jerry",
       "Tutorials Point"
    };
 
